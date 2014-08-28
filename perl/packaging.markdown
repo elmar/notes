@@ -9,10 +9,8 @@ The Simplest Package
 
 Create a directory with just one file called `dist.ini` as follows:
 
-```shell
-mkdir Foo-Bar
-cd Foo-Bar
-cat > dist.ini << 'EOF'
+```ini
+# dist.ini
 name    = Foo-Bar
 author  = Elmar S. Heeb <elmar@heebs.ch>
 license = GPL_3
@@ -21,7 +19,6 @@ copyright_year   = 2014
 version = 1
 abstract = Bar the Foo
 [@Basic]
-EOF
 ```
 
 This corresponds to a package with no actual contents but only infrastructurei.
