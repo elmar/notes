@@ -1,7 +1,7 @@
 Packaging Perl Software
 =======================
 
-(TIMTOWTDI)[https://en.wikipedia.org/wiki/TIMTOWTDI]: this is how I prefer
+[TIMTOWTDI](https://en.wikipedia.org/wiki/TIMTOWTDI): this is how I prefer
 doing Perl software packaging currently.
 
 The Simplest Package
