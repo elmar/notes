@@ -1,7 +1,7 @@
 Notes about Filesystems in Windows
 ==================================
 
-Some characters like a colon are illegal in a file name under Windows.  To force a literal interpretation use `\\?\` to quota a file name.  E.g., to delete a file use
+Some characters like a colon are illegal in a file name under Windows.  To force a literal interpretation use `\\?\` to quote a file name.  E.g., to delete a file use
 
     del \\?\D:\foo:bar.txt
 
