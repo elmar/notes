@@ -1,6 +1,14 @@
 MacPorts Hints
 ==============
 
+Regular Maintenance
+-------------------
+
+After the [first installation](https://guide.macports.org/#installing.macports) it needs to be regularly updated. Issue the following commands (e.g. from a script, say `upgrade-ports`.
+
+    port -v selfupdate
+    port -v upgrade outdated
+
 Perl
 ----
 
