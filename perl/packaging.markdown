@@ -32,3 +32,8 @@ dzil build
 dzil test
 dzil clean
 ```
+
+References / Further Reading
+----------------------------
+
+* [Becoming a Co-Maintainer of a CPAN-Module](http://perlmaven.com/becoming-a-co-maintainer) by Gabor Szabo
