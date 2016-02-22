@@ -37,3 +37,5 @@ References / Further Reading
 ----------------------------
 
 * [Becoming a Co-Maintainer of a CPAN-Module](http://perlmaven.com/becoming-a-co-maintainer) by Gabor Szabo
+
+* [Try Travis-CI with Your CPAN Distributions](http://blogs.perl.org/users/neilb/2014/08/try-travis-ci-with-your-cpan-distributions.html) by Neil Bowers
