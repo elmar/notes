@@ -21,7 +21,7 @@ abstract = Bar the Foo
 [@Basic]
 ```
 
-This corresponds to a package with no actual contents but only infrastructurei.
+This corresponds to a package with no actual contents but only infrastructure.
 Nevertheless, it is a perfect starting point.  What will be produced is called
 a distribution in Perl (CPAN) nomenclature or a package in Debian.
 
